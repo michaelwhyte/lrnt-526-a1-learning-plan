@@ -1,0 +1,6 @@
+# Ignore Mac OS operating system files
+.DS_Store
+.Trashes
+._*
+.Spotlight-V100
+.AppleDouble
